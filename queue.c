@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_queue - function prints top 
+ * f_queue - function prints top
  * @head: head
  * @counter: counter
  * Return: void
